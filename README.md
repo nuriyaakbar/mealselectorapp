@@ -9,9 +9,17 @@ The **Meal Selector App** is a simple Android application that provides random m
 - 👍 **User-friendly**: Quick and easy to use, with a tap to get meal suggestions
 
 ## 📸 Screenshots
-```
-Screenshots of the app go here
-```
+<div align="center">
+  <img src="screenshots/01.jpeg" alt="App Screenshot 1" width="220"/>
+  <img src="screenshots/02.jpeg" alt="App Screenshot 2" width="220"/>
+  <img src="screenshots/03.jpeg" alt="App Screenshot 3" width="220"/>
+  <img src="screenshots/04.jpeg" alt="App Screenshot 4" width="220"/>
+</div>
+
+## 🎬 Features Demo
+Check out our YouTube short demonstrating the app's features:
+
+[![Meal Selector App Demo](https://img.youtube.com/vi/q4bhmgizwP4/0.jpg)](https://youtube.com/shorts/q4bhmgizwP4?si=iK1v6EaaOOthaWjd)
 
 ## 🚀 Installation
 1. Clone the repository:
@@ -36,6 +44,8 @@ Open-source under the MIT License.
 ## 📚 References
 - [Kotlin Docs](https://kotlinlang.org/docs/home.html)
 - [Android Developer Guide](https://developer.android.com/guide)
+- [Pinterest](https://www.pinterest.com/) - Inspiration for food ideas and UI design
+- [ChatGPT](https://chat.openai.com/) - Assistance with development and documentation
 
 ---
 
